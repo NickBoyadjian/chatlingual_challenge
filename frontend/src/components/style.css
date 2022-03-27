@@ -1,0 +1,20 @@
+.file {
+  color: #757575;
+  padding-left: 30px;
+}
+
+.directory {
+  padding-left: 30px;
+}
+
+.expanded {
+  border-left: 1px solid #aaa;
+}
+
+.title {
+  cursor: pointer;
+}
+
+form {
+  display: flex;
+}
